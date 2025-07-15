@@ -1,0 +1,11 @@
+1.ส่วนของ Text ใช้วิธีการ Lexical Matching (n-gram)
+
+2.ตรวจลอกแบบ rewrite ด้วยการใช้ embedding model + vector database
+-> cosine similarity
+
+3.ตรวจ metadata 
+
+4.ส่วนรูปใช้ image embedding + vector database
+-> cosine similarity
+
+แล้วเอามารวมกันเป็น % ตอนสุดท้าย ดีมั้ย
